@@ -3,3 +3,6 @@ Hadoop
 AWS Infrastructure
 
 Hive Data warehouse
+New batch of deloitte
+Welcome,
+good evening
